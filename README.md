@@ -9,8 +9,10 @@
 <p>DD 虚拟鼠标 &amp; 虚拟键盘<br />
   DD Virtual Mouse &amp; Virtual Keyboard<br />
 </p>
-<p>QQ群: 984539184 <br />
-<img src="http://www.ddxoft.com/pic/1458056700q.jpg" alt="2" width="280" height="280" /></p>
+<p>Java使用:  <br />
+1、如果使用1.Simple里面的驱动，无需特别运行其他程序，直接运行demo程序，但是我本地win10_64环境jdk8，运行之后没有任何反应，此种情况查看第2步；
+2、使用2.General里面的驱动，但是在这之前要超管运行drv.win10里面的setup.cmd按照相关的资源，再运行demo即可；
+3、使用3.HID里面的驱动同2；
 <p>&nbsp;</p>
 <p>6个DD通用函数说明：</p>
 <p>1. DD_btn(int btn)<br />
